@@ -40,3 +40,6 @@ next-env.d.ts
 /public/logos
 /prisma/dev.db
 /src/app/logos/
+
+#deploy.sh
+/artifact/*

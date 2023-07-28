@@ -1,0 +1,4 @@
+artifact/
+**/.git/
+.gitignore
+*.sqlite3
